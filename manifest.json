@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube NoCookie",
+  "version": "1.0.0",
+  "description": "Turn youtube videos to no-cookie mode",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
